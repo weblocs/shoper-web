@@ -1,1 +1,1 @@
-console.log('cta'); //
+console.log('cta'); // inti
